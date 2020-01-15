@@ -1,0 +1,1 @@
+# DeGiro-dividend-tracker
